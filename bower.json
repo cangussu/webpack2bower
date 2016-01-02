@@ -1,0 +1,23 @@
+{
+  "name": "webpack2bower",
+  "main": "dist/webpack2bower.js",
+  "version": "0.1.0",
+  "authors": [
+    "Thiago Cangussu de Castro Gomes <cangussu@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "immutable": "*"
+  }
+}
